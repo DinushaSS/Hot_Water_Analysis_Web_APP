@@ -835,3 +835,4 @@ elif st.session_state.selected_menu == "Saving":
 
         # --- REMOVED THE REDUNDANT CALL HERE ---
         # The call to display_actual_vs_low_savings has been moved upward.
+
